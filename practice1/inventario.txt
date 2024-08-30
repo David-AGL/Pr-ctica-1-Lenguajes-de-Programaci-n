@@ -1,0 +1,6 @@
+Articulo {nombre = "Naranja", categoria = "Frutas"}
+Articulo {nombre = "Pera", categoria = "Frutas"}
+Articulo {nombre = "Manzana", categoria = "Frutas"}
+Articulo {nombre = "Banda el stica", categoria = "Art¡culos Deportivos"}
+Articulo {nombre = "Guantes de Boxeo", categoria = "Art¡culos Deportivos"}
+Articulo {nombre = "Shampoo", categoria = "Aseo Personal"}
