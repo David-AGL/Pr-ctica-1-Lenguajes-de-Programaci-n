@@ -1,5 +1,4 @@
 # Práctica-1-Lenguajes-de-Programación
-Sistema de inventario de artículos en haskell.
 
 Integrantes: 
 -David Alejandro Gutiérrez Leal
